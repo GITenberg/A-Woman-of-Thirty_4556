@@ -1,0 +1,27 @@
+_repo: A-Woman-of-Thirty_4556
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Seiffert, Marjorie Allen
+    aliases:
+    - Allen, Marjorie
+    - Seiffert, Mrs. Otto
+    birthdate: 1885
+    deathdate: 1970
+    gutenberg_agent_id: '1505'
+    url: http://www.gutenberg.org/2009/agents/1505
+description: ''
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4556'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry -- 20th century'
+- GITenberg
+title: A Woman of Thirty
+url: http://www.gutenberg.org/ebooks/4556
