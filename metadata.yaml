@@ -1,5 +1,8 @@
 _repo: A-Woman-of-Thirty_4556
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Seiffert, Marjorie Allen
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '1505'
     url: http://www.gutenberg.org/2009/agents/1505
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4556#A-Woman-of-Thirty
 gutenberg_issued: '2003-10-01'
 gutenberg_type: Text
 identifiers:
